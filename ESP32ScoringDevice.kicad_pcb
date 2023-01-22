@@ -125,7 +125,7 @@
       (effects (font (size 1.27 1.27) (thickness 0.15)))
       (tstamp c0c31848-df53-4e43-8ad6-71de4c92e8b3)
     )
-    (pad "1" thru_hole circle (at 0 0) (size 3.8 3.8) (drill 2.2) (layers *.Cu *.Mask) (tstamp 4cf5477c-2fc9-4d40-89cb-816f3cd6ae94))
+    (pad "1" thru_hole circle (at 0 0) (size 3.8 3.8) (drill 2.5) (layers *.Cu *.Mask) (tstamp 4cf5477c-2fc9-4d40-89cb-816f3cd6ae94))
   )
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" (layer "F.Cu")
@@ -1027,7 +1027,7 @@
       (effects (font (size 1.27 1.27) (thickness 0.15)))
       (tstamp e745e187-5470-470f-ba10-dd5c48bcf698)
     )
-    (pad "1" thru_hole circle (at 0 0) (size 3.8 3.8) (drill 2.2) (layers *.Cu *.Mask) (tstamp 0afe0881-dd89-4049-9b3c-169e0283583e))
+    (pad "1" thru_hole circle (at 0 0) (size 3.8 3.8) (drill 2.5) (layers *.Cu *.Mask) (tstamp 0afe0881-dd89-4049-9b3c-169e0283583e))
   )
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical" (layer "F.Cu")
@@ -1208,7 +1208,7 @@
     )
     (fp_circle (center 0 0) (end 1.9 0) (layer "Cmts.User") (width 0.15) (fill none) (tstamp 2bf75d1e-8b88-482b-82c1-fc64526c04a0))
     (fp_circle (center 0 0) (end 2.15 0) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp 1b1174aa-c39b-4990-8aee-44c2f52e899a))
-    (pad "1" thru_hole circle (at 0 0) (size 3.8 3.8) (drill 2.2) (layers *.Cu *.Mask) (tstamp babab2c9-050c-4697-a0d3-4ef5d42f6ec3))
+    (pad "1" thru_hole circle (at 0 0) (size 3.8 3.8) (drill 2.5) (layers *.Cu *.Mask) (tstamp babab2c9-050c-4697-a0d3-4ef5d42f6ec3))
   )
 
   (footprint "Package_TO_SOT_THT:TO-92_Inline" (layer "F.Cu")
@@ -2022,7 +2022,7 @@
       (effects (font (size 1.27 1.27) (thickness 0.15)))
       (tstamp 407ae1c4-25b0-41cd-9707-bbc10e022d90)
     )
-    (pad "1" thru_hole circle (at 0 0) (size 3.8 3.8) (drill 2.2) (layers *.Cu *.Mask) (tstamp 5c4dcf6b-7198-43e8-8dc7-14129a3ee96c))
+    (pad "1" thru_hole circle (at 0 0) (size 3.8 3.8) (drill 2.5) (layers *.Cu *.Mask) (tstamp 5c4dcf6b-7198-43e8-8dc7-14129a3ee96c))
   )
 
   (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (layer "F.Cu")
