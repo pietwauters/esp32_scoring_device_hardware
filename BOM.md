@@ -4,7 +4,9 @@
 > All items marked with * are optional. JST or header connectors can be substituted by soldering the wires directly to the board or ESP.
 
 > [!TIP]
-> JST are the recommended connector type for J1-J8 because they are keyed and you can't connect them the wrong way. Simple header pins work fine too, but be sure to connect them the right way.
+> JST XH2.54 are the recommended connector type for J1-J8 because they are keyed and you can't connect them the wrong way.
+> Simple header pins work fine too, but be sure to connect them the right way. 
+> JSTs can be bought as kit with wire and crimper. 
 > Connectors are preferred over soldering directly because of serviceability.
 
 ## 3 weapon scoring device
@@ -21,6 +23,9 @@
 | 1 | R8 | metal film resistor | 3,3kΩ 1% | 1/4W | |
 | 1 | R9 | metal film resistor | 2,2kΩ 1% | 1/4W | |
 | 1 | R10 | metal film resistor | 150Ω 1% | 1/4W | |
+| 7 |  | female banana jack | | 4mm panel mount | |
+| 2 |  | 64 LED matrix panel | WS2812B-64 led matrix | | |
+| 1* |  | MAX7219 Dot matrix Module 4-in-1 LED Display module | | | |
 | 1* | R11 | metal film resistor | 0Ω bridge | 1/4W | can be substituted by a simple wire bridge |
 | 1 | R12 | metal film resistor | 10kΩ 1% | 1/4W | |
 | 1* | J1 | JST connector | 1 x 7 | 2,54mm pitch | |
