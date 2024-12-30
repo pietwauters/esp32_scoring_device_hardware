@@ -26,7 +26,7 @@
 | 1 | R9 | metal film resistor | 2,2kΩ 1% | 1/4W | |
 | 1 | R10 | metal film resistor | 150Ω 1% | 1/4W | |
 | 1* | R11 | metal film resistor | 0Ω bridge | 1/4W | can be substituted by a simple wire bridge |
-| 7 |  | female banana jack | | 4mm panel mount | |
+| 7 |  | female banana jack | | 4mm, panel mount | |
 | 1 | R12 | metal film resistor | 10kΩ 1% | 1/4W | |
 | 1* | J1 | JST connector | 1 x 7 | 2,54mm pitch | |
 | 1* | J2 | JST connector | 1 x 3 | 2,54mm pitch | |
@@ -48,6 +48,7 @@
 | 5 | R1,R2,R3,R4,R5 | metal film resistor | **47Ω 1%** | 1/4W | These resistors are marked 470Ω* on the silkscreen |
 | 2 | R6,R7 | metal film resistor | 33Ω 1% | 1/4W | |
 | 1* | R11 | metal film resistor | 0Ω bridge | 1/4W | can be substituted by a simple wire bridge |
+| 7 |  | female banana jack | | 4mm, panel mount | |
 | 1* | J1 | JST connector | 1 x 7 | 2,54mm pitch | |
 | 1* | J2 | JST connector | 1 x 3 | 2,54mm pitch | |
 
