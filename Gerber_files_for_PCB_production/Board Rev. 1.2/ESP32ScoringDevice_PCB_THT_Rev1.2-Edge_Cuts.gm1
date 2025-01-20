@@ -1,0 +1,23 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,8.0.8*
+G04 #@! TF.CreationDate,2025-01-19T23:43:05+01:00*
+G04 #@! TF.ProjectId,ESP32ScoringDevice_PCB_THT_Rev1.2,45535033-3253-4636-9f72-696e67446576,1.1*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Profile,NP*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.8) date 2025-01-19 23:43:05*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 #@! TA.AperFunction,Profile*
+%ADD10C,0.100000*%
+G04 #@! TD*
+G04 APERTURE END LIST*
+D10*
+X144780000Y-132080000D02*
+X78740000Y-132080000D01*
+X78740000Y-78740000D01*
+X144780000Y-78740000D01*
+X144780000Y-132080000D01*
+M02*
