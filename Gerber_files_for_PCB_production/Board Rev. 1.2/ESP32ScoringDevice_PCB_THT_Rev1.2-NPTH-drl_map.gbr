@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,8.0.8*%
-%TF.CreationDate,2025-01-19T23:46:45+01:00*%
+%TF.CreationDate,2025-02-16T00:04:46+01:00*%
 %TF.ProjectId,ESP32ScoringDevice_PCB_THT_Rev1.2,45535033-3253-4636-9f72-696e67446576,1.1*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Drillmap*%
 %TF.FilePolarity,Positive*%
 %FSLAX45Y45*%
 G04 Gerber Fmt 4.5, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 8.0.8) date 2025-01-19 23:46:45*
+G04 Created by KiCad (PCBNEW 8.0.8) date 2025-02-16 00:04:46*
 %MOMM*%
 %LPD*%
 G01*
