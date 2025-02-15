@@ -1968,28 +1968,6 @@
 				)
 			)
 		)
-		(fp_text user "Boot"
-			(at 7.62 39.68 0)
-			(layer "F.SilkS")
-			(uuid "d25a8257-97a0-48e3-97a9-d82d685be806")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(fp_text user "Enable"
-			(at -7.62 39.68 0)
-			(layer "F.SilkS")
-			(uuid "f77701df-cc9e-4e77-ab69-533c9e4513f6")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(pad "1" thru_hole rect
 			(at -12.7 0)
 			(size 1.524 1.524)
@@ -14449,7 +14427,7 @@
 		(layer "Edge.Cuts")
 		(uuid "83557277-4acd-45a8-bfa6-af48891e76a5")
 	)
-	(gr_text "ESP32 fencing scoring device / weapons tester\ngithub.com/pietwauters/esp32_scoring_device_hardware\n©Piet Wauters 2024 GNU GPL V3.0\nPCB Rev. 1.2"
+	(gr_text "ESP32 fencing scoring device / weapons tester\ngithub.com/pietwauters/esp32_scoring_device_hardware\n©Piet Wauters 2024 GNU GPL V3.0\nPCB Rev. 1.2b"
 		(at 139.78 86.04 0)
 		(layer "B.SilkS")
 		(uuid "7fa310bf-e8f9-4cc2-8fc8-5290b0cc2cd6")
@@ -14593,7 +14571,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "Fencing 3 weapons\n█ scoring device\n█ tester\nPCB Rev. 1.2\n"
+	(gr_text "Fencing 3 weapons\n█ scoring device\n█ tester\nPCB Rev. 1.2b\n"
 		(at 127.762 89.408 0)
 		(layer "F.SilkS")
 		(uuid "692c3d82-6474-41bf-bfe1-cff30b5126f8")
