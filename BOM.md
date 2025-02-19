@@ -1,4 +1,4 @@
-# BOM - Bill of materials  
+# BOM - Bill of materials  PCB rev. 1.2b
 
 > [!NOTE]
 > All items marked with * are optional. JST or header connectors can be substituted by soldering the wires directly to the board or ESP.
@@ -9,7 +9,7 @@
 > JSTs can be bought as kit with wire and crimper. 
 > Connectors are preferred over soldering directly to the board for serviceability.
 
-## 3 weapon scoring device
+## 1) Three weapon scoring device
 
 | Number of pieces | Designator | Description | Value | Size | Remarks |
 | --- | --- | --- | --- | --- | --- |
@@ -36,10 +36,18 @@
 | 1* | Q3 | power mosfet| FQP27P06 | TO-220 | reverse voltage protection, strongly recommended if you power externally via J9 |
 | 1* | J4 | Right angle 2,54mm socket| | 6-pin | for plug-in connection of a HC-06 BT module |
 
+### Hardware
+| Number of pieces | Description | Remarks |
+| --- | --- |  --- |
+| 4 | M3 x 20 screw | cylinder or round head |
+| 4* | hotmelt threaded inserts M3 | short, medium or long will fit, long preferred |
+| 18 | M2 x 6-10 screw | shorter for the PCB and buzzer, longer ones for the retainers |
+| 18* | hotmelt threaded inserts M2 | short or medium, long will fit for the PCB |
 
 
 
-## Weapons / body wire tester
+
+## 2) Weapons / body wire tester
 
 | Number of pieces | Designator | Description | Value | Size | Remarks |
 | --- | --- | --- | --- | --- | --- |
